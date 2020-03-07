@@ -1,4 +1,5 @@
-import '../css/index.css'
+import '../css/index.css';
+
 function fn() {
     return 10086;
 }
